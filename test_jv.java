@@ -4,6 +4,7 @@ public class test_jv {
 
         System.out.print("eie"); 
         System.out.print("ee"); 
+        System.out.print("ee2"); 
     }
    
 }
